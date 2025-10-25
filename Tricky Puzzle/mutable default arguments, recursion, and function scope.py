@@ -12,6 +12,7 @@ print(mystery(5))
 print(mystery(6))
 print(mystery(5))
 
+
 """
 Output:
 15
