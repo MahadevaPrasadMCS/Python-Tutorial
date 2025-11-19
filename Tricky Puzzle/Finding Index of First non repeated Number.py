@@ -1,7 +1,6 @@
 nums = [4, 5, 1, 2, 0, 4]
 
 def find_index_of_first_non_repeated(nums):
-  
     #created a dictionary to store frequencies of numbers in the List
     freq = {}
 
